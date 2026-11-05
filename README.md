@@ -66,9 +66,12 @@ Unlike many online tools, all processing is performed locally on your computer. 
 
 ![Smooth and accurate face masking](screenshots/face_model.png)
 
-### Export
+### Image export
 
 ![Image export](screenshots/export_image.png)
+
+### Video export
+
 ![Video export](screenshots/export_video.png)
 
 ### Languages
