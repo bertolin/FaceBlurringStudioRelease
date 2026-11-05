@@ -81,7 +81,7 @@ Unlike many online tools, all processing is performed locally on your computer. 
 
 Download the latest version here:
 
-https://github.com/bertolin/FaceBlurringStudio/releases
+https://github.com/bertolin/FaceBlurringStudio/releases/latest/download/FaceBlurring-Studio-Setup.exe
 
 ---
 
